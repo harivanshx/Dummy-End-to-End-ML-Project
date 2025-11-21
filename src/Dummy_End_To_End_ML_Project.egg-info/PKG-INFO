@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: Dummy_End_To_End_ML_Project
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/harivanshx/Dummy-End-to-End-ML-Project
+Author: harivanshx
+Author-email: harivanshbhardwaj57@gmail.com
+Project-URL: Bug Tracker, https://github.com/harivanshx/Dummy-End-to-End-ML-Project/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary

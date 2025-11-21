@@ -9,7 +9,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s')
 
 
-PROJECT_NAME = "Wine_Quality_Prediction"
+PROJECT_NAME = "Dummy_End_To_End_ML_Project"
 
 
 
